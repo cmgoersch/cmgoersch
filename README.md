@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## my Name is Calle
+## my name is Calle
 
 Currently I am a student at **Neue Fische** Agentur Hamburg  <br> and I am preparing for a successful developer career.
 
