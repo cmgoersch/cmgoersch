@@ -2,7 +2,7 @@
 
 ### my Name is Calle
 
-I am a student at Neue Fische Agentur Hamburg and am preparing for a successful developer career.
+I am a student at Neue Fische Agentur Hamburg and I am preparing for a successful developer career
 
 
 
