@@ -2,7 +2,7 @@
 
 ## my Name is Calle
 
-Currently I am a student at **Neue Fische** Agentur Hamburg  <br> and am preparing for a successful developer career.
+Currently I am a student at **Neue Fische** Agentur Hamburg  <br> and I am preparing for a successful developer career.
 
 <img src="https://www.madways.de/assets/images/carl_martin_goersch.jpg" width="200" />
 
