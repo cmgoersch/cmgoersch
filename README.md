@@ -2,8 +2,15 @@
 
 ### my Name is Calle
 
-I am a student at Neue Fische Agentur Hamburg and I am preparing for a successful developer career
+I am a student at **Neue Fische** Agentur Hamburg and I am preparing for a successful developer career
 
+![](https://www.madways.de/assets/images/carl_martin_goersch.jpg)
+
+ am a graphic designer and screen designer for [**Madways UG**](https://www.madways.de/) Agency based in Karlsruhe, Germany
+
+you can reach me at 
+- Mail: goersch@madways.de
+- Twitter: @gitarrkin
 
 
 <!--
