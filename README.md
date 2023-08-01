@@ -1,30 +1,21 @@
 ### Hi there 👋
 
-## my name is Calle
+## My name is Calle 🚀
 
-Currently I am a student at **Neue Fische** Agentur Hamburg  <br> and I am preparing for a successful developer career.
+Having completed my training at **Neue Fische** Agentur Hamburg, I'm now fully immersed in the coding world and embarked on my exhilarating developer journey. 🖥️
 
-<!--
-<img src="https://www.madways.de/assets/images/carl_martin_goersch.jpg" width="200" />
--->
 
-I am a graphic designer and screen designer for <br>
-[**Madways UG**](https://www.madways.de/) Agency based in Karlsruhe, Germany.
+Aside from that, I channel my creativity as a graphic and screen designer for [**Madways UG**](https://www.madways.de/), an amazing agency nestled in Karlsruhe, Germany. 🎨
 
-### you can reach me at 
+**Tech Stack & Interests**: 
+- 🌐 HTML | CSS | JavaScript 
+- 🛢️ MongoDB | React | Next.js
+- 🎲 UI/UX Design | Graphic Design
+
+### 💌 Get in Touch 
 - Mail: goersch@madways.de
 - Twitter: @gitarrkin
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmgoersch&layout=compact)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Visitor Count](https://profile-counter.glitch.me/cmgoersch/count.svg) people have visited this profile
+![Visitor Count](https://profile-counter.glitch.me/cmgoersch/count.svg) 
