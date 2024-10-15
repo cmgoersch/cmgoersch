@@ -32,7 +32,6 @@ Currently, I also channel my creativity as a graphic and screen designer for [**
 
 ![Visitor Count](https://profile-counter.glitch.me/cmgoersch/count.svg)
 
-
-
+<!-- [![Calles's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmgoersch)](https://github.com/cmgoersch/github-readme-stats) -->
 
 
