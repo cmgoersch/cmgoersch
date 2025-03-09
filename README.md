@@ -1,37 +1,27 @@
-### Hi there 👋
+### Hey there! 👋  
 
-## My name is Calle 🚀
+## I'm Calle – Designer turned Developer 🚀  
 
-After completing my training at **Neue Fische** Agentur Hamburg, I fully immersed myself in the world of coding and embarked on my exciting journey as a developer. 🖥️
+After over **10 years in graphic and web design**, specializing in **UI/UX**, I decided to take my passion for digital experiences to the next level – **by becoming a developer**.  
 
-During my time at **Neue Fische**, I developed my capstone project called **better-friend-app**, an app designed to help users engage with their friends in a playful and more balanced manner. Feel free to check it out:
-<a href="https://capstone-project-seven-rho.vercel.app/" target="_blank">**capstone-project-seven-rho.vercel.app**</a>.
+### 🛠️ My Journey  
+- Trained at **Neue Fische** (Hamburg), where I built my capstone project **[better-friend-app](https://capstone-project-seven-rho.vercel.app/)** – an app that helps users engage with friends in a fun, balanced way.  
+- Since **September 2024**, I’ve been sharpening my skills in **Web Development at DCI (Digital Career Institute)**.  
+- Recently, I also started exploring **Python** to expand my tech toolkit. 🐍  
 
-Since October 2024, I'm also attending a **Web Development course** at **DCI (Digital Career Institute)** for one year to deepen my skills in web development. Additionally, over the past few months, I have also been learning **Python** to expand my programming knowledge. 🐍
+### 🎨 + 🖥️ = ❤️  
+With a background in **graphic & UI/UX design**, I bring a keen eye for aesthetics and usability to development. Currently, I also work as a **graphic & screen designer at [Madways UG](https://www.madways.de/)** in Karlsruhe.
 
-Prior to diving into coding, I completed a **Graphic Design apprenticeship (2009-2012)** at the **Akademie für Kommunikation in Pforzheim**, and I have **over 10 years of experience** working as a **graphic and web designer**. During this time, I specialized in **UI/UX Design** and gathered extensive knowledge in creating user-centric digital experiences.
+### ⚡ Tech Stack  
+- 🌐 HTML | CSS | JavaScript  
+- ⚛️ React | Next.js  
+- 🛢️ MongoDB  
+- 🐍 Python  
 
-Currently, I also channel my creativity as a graphic and screen designer for [**Madways UG**](https://www.madways.de/), an amazing agency nestled in Karlsruhe, Germany. 🎨
+### 📬 Let’s Connect  
+- 📧 **Mail:** goersch@madways.de  
+- 🐦 **Twitter:** [@gitarrkin](https://twitter.com/gitarrkin)  
 
-**Tech Stack & Interests**: 
-- 🌐 HTML | CSS | JavaScript 
-- 🛢️ MongoDB | React | Next.js | Python
-- 🎲 UI/UX Design | Graphic Design
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### 💌 Get in Touch
-- Mail: goersch@madways.de
-- Twitter: [@gitarrkin](https://twitter.com/gitarrkin)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmgoersch&layout=compact)
-
-![Visitor Count](https://profile-counter.glitch.me/cmgoersch/count.svg)
-
-<!-- [![Calles's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmgoersch)](https://github.com/cmgoersch/github-readme-stats) -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmgoersch&layout=compact)  
+![Visitor Count](https://profile-counter.glitch.me/cmgoersch/count.svg)  
 
