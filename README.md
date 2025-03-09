@@ -20,7 +20,7 @@ With a background in **graphic & UI/UX design**, I bring a keen eye for aestheti
 
 ### 📬 Let’s Connect  
 - 📧 **Mail:** goersch@madways.de  
-- 💼 **LinkedIn:** [Zu meinem LinkedIn Profil](https://www.linkedin.com/in/carl-martin-g%C3%B6rsch-838a8b214/)  
+- 💼 **LinkedIn:** [Let’s connect on LinkedIn](https://www.linkedin.com/in/carl-martin-g%C3%B6rsch-838a8b214/)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmgoersch&layout=compact)  
 ![Visitor Count](https://profile-counter.glitch.me/cmgoersch/count.svg)  
