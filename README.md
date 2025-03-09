@@ -10,7 +10,7 @@ After over **10 years in graphic and web design**, specializing in **UI/UX**, I 
 - Recently, I also started exploring **Python** to expand my tech toolkit. 🐍  
 
 ### 🎨 + 🖥️ = ❤️  
-With a background in **graphic & UI/UX design**, I bring a keen eye for aesthetics and usability to development. Currently, I also work as a **graphic & screen designer at [Madways UG](https://www.madways.de/)** in Karlsruhe.
+With a background in **graphic & UI/UX design**, I bring a keen eye for aesthetics and usability to development. Currently, I also work as a **graphic & screen designer at [Madways UG](https://www.madways.de/)** in Karlsruhe.  
 
 ### ⚡ Tech Stack  
 - 🌐 HTML | CSS | JavaScript  
@@ -20,8 +20,7 @@ With a background in **graphic & UI/UX design**, I bring a keen eye for aestheti
 
 ### 📬 Let’s Connect  
 - 📧 **Mail:** goersch@madways.de  
-- 🐦 **Twitter:** [@gitarrkin](https://twitter.com/gitarrkin)  
+- 💼 **LinkedIn:** [Carl-Martin Görsch](https://www.linkedin.com/in/carl-martin-g%C3%B6rsch-838a8b214/)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmgoersch&layout=compact)  
 ![Visitor Count](https://profile-counter.glitch.me/cmgoersch/count.svg)  
-
