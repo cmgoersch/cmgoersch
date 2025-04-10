@@ -26,6 +26,4 @@ With a background in **graphic & UI/UX design**, I bring a keen eye for aestheti
 
 <a href="http://www.github.com/cmgoersch"><img src="https://github-readme-stats.vercel.app/api?username=cmgoersch&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="cmgoersch's GitHub stats" /></a>
 
-<a href="https://github.com/cmgoersch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmgoersch&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ![](https://komarev.com/ghpvc/?username=cmgoersch)
