@@ -20,7 +20,6 @@ With a background in **graphic & UI/UX design**, I bring a keen eye for aestheti
 
 ### 📬 Let’s Connect  
 - 📧 **Mail:** goersch@madways.de  
-- 💼 **LinkedIn:** [Let’s connect on LinkedIn](https://www.linkedin.com/in/calle-g%C3%B6rsch-838a8b214/)
   <p align="left"> <a href="https://www.linkedin.com/in/calle-görsch-838a8b214/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <b>My GitHub Stats</b>
