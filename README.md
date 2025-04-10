@@ -1,6 +1,6 @@
 ### Hey there! 👋  
 
-## I'm Calle – Designer turned Developer 🚀  
+## I'm Calle – Designer & Developer 🚀  
 
 After over **10 years in graphic and web design**, specializing in **UI/UX**, I decided to take my passion for digital experiences to the next level – **by becoming a developer**.  
 
