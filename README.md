@@ -11,11 +11,13 @@ Passionate about clean design, smart code, and meaningful collaboration.
 🔗 [LinkedIn](https://www.linkedin.com/in/calle-goersch/)  
 🌐 [Website](https://cmgoersch.com)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" alt="InDesign" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-000?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-000?style=flat&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-000?style=flat&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/InDesign-000?style=flat&logo=adobeindesign&logoColor=white" />
+</p>
