@@ -2,12 +2,12 @@
 
 Web Developer & Graphic Designer based in Hamburg.
 
-Leveled up to **full-stack developer (Sept 2025)** at DCI – ready for new challenges.
+On September 21, 2025, I completed my one-year training program as a web developer at DCI and am now ready for new challenges. I am very excited to finally expand my skills as part of a team.
 
 I love **clean design**, **smart code**, and **teams that build great things together**.  
 My focus: developing **modern, responsive & accessible** web applications through **collaboration and shared creativity**.
 
-**Capstone Project 2025:** [HelloDev](https://github.com/your-hellodev-link) – *The network for nerds and hackers in software development* – a social media platform for developers to connect, share resources and collaborate on projects.
+**Capstone Project 2025:** [HelloDev](https://github.com/Merge-Pray/HelloDev) – *The network for nerds and hackers in software development* – a social media platform for developers to connect, share resources and collaborate on projects.
 
 ### Connect meContact options and more information
 
