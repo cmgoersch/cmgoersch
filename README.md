@@ -35,4 +35,7 @@ My focus: developing **modern, responsive & accessible** web applications throug
   <img src="https://img.shields.io/badge/CI%2FCD-000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-000?style=flat&logo=wordpress&logoColor=white" />
+    <img src="https://img.shields.io/badge/Photoshop-000?style=flat&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-000?style=flat&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/InDesign-000?style=flat&logo=adobeindesign&logoColor=white" />
 </p>
