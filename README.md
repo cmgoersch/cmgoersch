@@ -6,27 +6,15 @@ Freshly graduated (Sept 2025) from DCI’s Full-Stack Web Development program �
 I love **clean design**, **smart code**, and **meaningful collaboration**.  
 My focus: building modern, responsive, and accessible web applications.
 
-### Connect with me
+💡 **Capstone Project 2025:** [HelloDev](https://github.com/your-hellodev-link) – *The network for nerds and hackers in software development* – a social media platform for developers to connect, share resources and collaborate on projects.
+
+### Connect me
 
 [![Mail](https://img.shields.io/badge/email-hey@cmgoersch.com-5c489b?style=flat&logo=gmail&logoColor=white)](mailto:hey@cmgoersch.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-calle--goersch-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calle-goersch/)
-
 [![Website](https://img.shields.io/badge/Website-cmgoersch.com-161b22?style=flat&logo=google-chrome&logoColor=white)](https://cmgoersch.com)
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS-000?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-000?style=flat&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-000?style=flat&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/InDesign-000?style=flat&logo=adobeindesign&logoColor=white" />
-</p>
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
