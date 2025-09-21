@@ -12,7 +12,9 @@ My focus: developing **modern, responsive & accessible** web applications throug
 ### Connect meContact options and more information
 
 [![Mail](https://img.shields.io/badge/email-hey@cmgoersch.com-5c489b?style=flat&logo=gmail&logoColor=white)](mailto:hey@cmgoersch.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-calle--goersch-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calle-goersch/)
+
 [![Website](https://img.shields.io/badge/Website-cmgoersch.com-161b22?style=flat&logo=google-chrome&logoColor=white)](https://cmgoersch.com)
 
 
