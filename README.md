@@ -9,7 +9,7 @@ My focus: developing **modern, responsive & accessible** web applications throug
 
 **Capstone Project 2025:** [HelloDev](https://github.com/Merge-Pray/HelloDev) – *The network for nerds and hackers in software development* – a social media platform for developers to connect, share resources and collaborate on projects.
 
-### Connect meContact options and more information
+### Connect me
 
 [![Mail](https://img.shields.io/badge/email-hey@cmgoersch.com-5c489b?style=flat&logo=gmail&logoColor=white)](mailto:hey@cmgoersch.com)
 
