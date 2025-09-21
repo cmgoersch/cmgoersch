@@ -1,20 +1,21 @@
 # Hi, I'm Calle 👋
 
-Web Developer & Graphic Designer based in Hamburg.  
+Web Developer & Graphic Designer based in Hamburg.
+
 Freshly graduated (Sept 2025) from DCI’s Full-Stack Web Development program – now ready for new professional challenges.
 
-I love **clean design**, **smart code**, and **meaningful collaboration**.  
-My focus: building modern, responsive, and accessible web applications.
+I love **clean design**, **smart code**, and **teams that build great things together**.  
+My focus: developing **modern, responsive & accessible** web applications through **collaboration and shared creativity**.
 
-💡 **Capstone Project 2025:** [HelloDev](https://github.com/your-hellodev-link) – *The network for nerds and hackers in software development* – a social media platform for developers to connect, share resources and collaborate on projects.
+**Capstone Project 2025:** [HelloDev](https://github.com/your-hellodev-link) – *The network for nerds and hackers in software development* – a social media platform for developers to connect, share resources and collaborate on projects.
 
-### Connect me
+### Connect meContact options and more information
 
 [![Mail](https://img.shields.io/badge/email-hey@cmgoersch.com-5c489b?style=flat&logo=gmail&logoColor=white)](mailto:hey@cmgoersch.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-calle--goersch-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calle-goersch/)
 [![Website](https://img.shields.io/badge/Website-cmgoersch.com-161b22?style=flat&logo=google-chrome&logoColor=white)](https://cmgoersch.com)
 
----
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
