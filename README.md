@@ -2,7 +2,7 @@
 
 Web Developer & Graphic Designer based in Hamburg.
 
-Freshly graduated (Sept 2025) from DCI’s Full-Stack Web Development program – now ready for new professional challenges.
+Leveled up to **full-stack developer (Sept 2025)** at DCI – ready for new challenges.
 
 I love **clean design**, **smart code**, and **teams that build great things together**.  
 My focus: developing **modern, responsive & accessible** web applications through **collaboration and shared creativity**.
