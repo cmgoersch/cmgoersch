@@ -2,12 +2,20 @@
 
 Web Developer & Graphic Designer based in Hamburg.
 
+Check out my portfolio at cmgoersch.com
+
+I am currently completing an exciting internship as a front-end web developer and UI/UX designer on a client project at exxeta.
+
+If you have an exciting job or project offer for me, please let me know.
+
 On September 21, 2025, I completed my extensive training as a web developer at DCI and am now ready for new challenges. I am very excited to finally expand my skills as part of a team.
 
 I love **clean design**, **smart code**, and **teams that build great things together**.  
 My focus: developing **modern, responsive & accessible** web applications through **collaboration and shared creativity**.
 
 **Capstone Project 2025:** [HelloDev](https://github.com/Merge-Pray/HelloDev) – *The network for nerds and hackers in software development* – a social media platform for developers to connect, share resources and collaborate on projects.
+
+
 
 ### Connect me
 
