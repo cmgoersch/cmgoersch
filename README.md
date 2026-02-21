@@ -2,7 +2,7 @@
 
 Web Developer & Graphic Designer based in Hamburg.
 
-Check out my portfolio at cmgoersch.com
+Check out my portfolio at [cmgoersch.com](https://cmgoersch.com)
 
 I am currently completing an exciting internship as a front-end web developer and UI/UX designer on a client project at [exxeta](https://exxeta.com/).
 
